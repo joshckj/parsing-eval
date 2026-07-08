@@ -1,0 +1,17 @@
+.ipynb_checkpoints
+__pychache__
+utils/__pychache__
+utils/ipynb_checkpoints
+*.json
+*.jsonl
+*.pyc 
+utils/.ipynb_checkpoints/pdf_to_png-checkpoint.py
+utils/.ipynb_checkpoints/upload_minio-checkpoint.py
+sketches/
+output/ls_annotations/*
+output/ls_json/*
+output/ocr_json/*
+output/png/*
+output/presigned/*
+
+.DS_Store
